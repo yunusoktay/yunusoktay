@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **swift**
 
-- 💬 Ask me about **UIKit**
+- 💬 Ask me about **UIKit** and **SwiftUI**
 
-- 📫 How to reach me **ynsokty.3@gmail.com**
+- 📫 How to reach me **yunusoktaydev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
